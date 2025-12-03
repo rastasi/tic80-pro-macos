@@ -1,0 +1,3 @@
+#!/bin/sh
+exec /Applications/tic80.app/Contents/Resources/src/build/bin/tic80 --skip >/dev/null
+
